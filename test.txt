@@ -2,4 +2,7 @@ THIS IS A TEST
 
 	The following document is a test on GitHub and its applications. 
 	
+
 	Adding a new line to the document as a feature. And a few more words to boot.
+
+	This line is intented to make a merge conflict
