@@ -1,0 +1,3 @@
+THIS IS A TEST
+
+	The following document is a test on GitHub and its applications. 
